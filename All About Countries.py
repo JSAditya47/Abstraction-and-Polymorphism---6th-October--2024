@@ -15,7 +15,7 @@ class Bangladesh:
         print("Dhaka is the Capital of Bangladesh")
         
     def language(self):
-        print("Bengali is the Primaru Language of Bangladesh")
+        print("Bengali is the Primary Language of Bangladesh")
         
     def type(self):
         print("Bangladesh is also a Developing Country")
